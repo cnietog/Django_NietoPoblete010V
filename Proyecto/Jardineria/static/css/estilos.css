@@ -1,0 +1,231 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {
+    margin: 0;
+    margin-bottom: 40px;
+}
+footer {
+    background-color: #3b5742;
+    position: absolute;
+    height: 150px;
+    bottom: 0;
+    width: 100%;
+    margin-top: 5px;
+    color: #c5c5c5;
+    text-align: center;
+}
+
+.ColorInicio {
+    background-color: #4d8552;
+    color: rgb(255, 255, 255);
+
+}
+.CentroInicio {
+    background-color: #4d8552;
+    align-items: center;
+    text-align: center;
+}
+
+.CentroInicio2 {
+    
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+.ColorSomos {
+    background-color: #4d8552;
+    color: rgb(255, 255, 255);
+ }
+
+.CentroSomos {
+    background-color: #4d8552;
+    align-items: center;
+    text-align: center;
+}
+
+.YoutubeSomos{
+    display:flex;
+    flex-wrap: wrap;
+    padding: 40px 0 40px 0;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: #4d8552;
+}
+
+.CentroSomos2{
+    background-color: #4d8552;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.ColorGaleria{
+    color: rgb(158, 9, 9);
+    align-content: center;
+}
+.ColorGaleria3{
+    color: rgb(255, 255, 255);
+    align-content: center;
+}
+
+.CentroGaleria{
+
+    font-size: 30px;
+    text-align: center;
+}
+
+.ColorGaleria2 {
+    background-color: #4c9153;
+    color: rgb(0, 0, 0);
+
+}
+
+.ColorBotonGaleria {
+    color: rgb(7, 164, 255);
+}
+
+
+.ColorContacto {
+    background-color: #4c9153;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    text-align: center;
+
+}
+.ColorContacto2  {
+    background-color: #4c9153;
+    color: rgb(255, 255, 255);
+ }
+
+.CentroContacto {
+    background-color: #4d8552;
+    align-items: center;
+    text-align: center;
+}
+
+.CentroContacto{
+    background-color: #4d8552;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+ .colorFQ {
+     background-color: #4c9153;
+     color: rgb(255, 255, 255);
+
+ }
+
+ .centroyt {
+    text-align: center;
+    background-color: #4c9153;
+     color: rgb(255, 255, 255);
+ }
+
+ .div-vid{
+     display:flex;
+    flex-wrap: wrap;
+    padding: 40px 0 40px 0;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: #4c9153;
+    color: rgb(255, 255, 255);
+ }
+
+
+
+ .colorFQ1 {
+    background-color: #4c9153;
+    color: rgb(255, 255, 255);
+ }
+
+ .centroimg{
+
+    align-items: center;
+    text-align: center;
+}
+
+.colorFQ1 {
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+.reloj { width: 150px; height: 30px; padding: 5px 10px; border: 1px solid black; 
+    font: bold 1.3em dotum, "lucida sans", arial; 
+    text-align: center;
+    float: right; margin: 1em 3em 1em 1em; }
+
+.colorRG{
+    color: white;
+    text-align: center;
+}
+    .error-control {
+        border: 1px solid rgba(255, 0, 0, 0.462);
+    }
+
+    label.error {
+        color: rgba(255, 0, 0, 0.462);
+        width: 300px;
+        font-size: 0.8em;
+        margin-top: -5px;
+        margin-bottom: 10px;
+    }
+
+.colorAPI{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#cajacontacto{
+    align-items: center;
+    text-align: center;
+    
+    
+}
+    
+    
+    
+    input {
+    
+        width: 180px;
+        margin-bottom: 5px;
+    }
+    
+    label {
+        clear: both;
+        float: center;
+        width: 150px;
+    }
+    
+    button {
+        clear: both;
+        float: center;
+        width: 80px;
+    }
+    
+    .bg-image-vertical {
+        position: relative;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-size: auto 100%;
+        }
+    
+        @media (min-width: 1025px) {
+        .h-custom-2 {
+        height: 100%;
+        }
+    }
+
+        
