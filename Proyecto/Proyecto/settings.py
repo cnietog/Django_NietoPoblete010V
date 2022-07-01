@@ -47,6 +47,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Jardineria',
     'crispy_forms',
+    'rest_framework',
+    'rest_cliente',
 
 ]
 

@@ -25,4 +25,5 @@ urlpatterns=[
     path ('catalogo_flores/', catalogo_flores, name="catalogo_flores"),
     path ('catalogo_macetero/', catalogo_macetero, name="catalogo_macetero"),
     path ('catalogo_herramientas/', catalogo_herramientas, name="catalogo_herramientas"),
+    
     ]
